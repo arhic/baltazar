@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.2",
-    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.0.2.bin",
-    "sha256":  "4ad68e795486fa0cda0069635d4ee518e7d609de5ccf3b305cecefdc1f1ad99c",
-    "signature":  "by2YP9q4ZNp8n93hBZYIj5nOww/ZgXFcPL744MX2fhdO1FXjlFfcgfUNdS//gC5IF+RyCyx+NlE9QHBYees6cUqiB1muhz8l9Q24JL5l7gsJY4HBrc0mAdWR5cVFUp2FSpGV6OlU8E1lES/eUl+UbzNd4AfK+zI7Sg9FUq6NwijQzNChy+l56PPP6bCcMRombqvCYNYYSOnpNi4kdUyF/Zpb3LwRVquX+pgL8fHPwLAtiJqCCiWnqhZ8z9PwAi5QeOH2BXqCxrWFnJ3sCLwgWmE/tF27DEm8bjnsZlH4RkUSym1J1waCmH2J5Vlz3IoARQMCPXVVvwAmlyj8wozR4Q==",
+    "version":  "1.0.3",
+    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.0.3.bin",
+    "sha256":  "2b97f2d968d63384df35bb9b9f056df6b11dfa73d9101486f55ff9f3020e895b",
+    "signature":  "kAdrATIreGq8S6J9yTNnXiZjaRg5FZd/pLEl7t5PsrWA870fqpFaRJT20P8PHzOJFnh0HShD0KnCX96NYIRO8QwY3YREReMB6h/8v3z3lBmUJtKWRZ7IjOzQQcdu1w0KOW8wQBcDRjEfPGcoR6ZA4QuN3c9Gr0i/Ujp/++TEgE3feqcWdIHj8UI5wzgevb5qtEWo3uot1vhBM0XPlKcO2fP2n449StQ8fo8RBf6D6NdMng7+0u9FS+H/sGIJvJU2822CqwFei6yxfi5yHA8LyDPHX/KRuVSbdL+w0wigaP8C3fqASnEzz1DlguNqalv3lbhJsw0nZtoCWO7kh8Cd3g==",
     "title":  "",
     "notes":  ""
 }
