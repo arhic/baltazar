@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.7",
-    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.0.7.bin",
-    "sha256":  "a4d1d5a14ea43e29992f3a69ae6a09c3947a56eb05e249f298b1bb9dad0e2af3",
-    "signature":  "WVyDi1pmHlonUwqQF0YODuPtq30rxdeEuvelqyjmMMgcfIw6ESe/k5JfYj4PhhaoiXUy4ehEoKfCGu+iPVZxt5knM3tRb8w5+Y0sjH6ITtoXMzwPR0aA1OduC1PR682Nx+n2ApOozvI7cNHizpRnOrp98SUCDyRF78zYMKdE95FsNEB0EgRjBjcU7ZJO/OpgY+wN356yTXFTphT6QikqqqE8IPhA/NRvZNjG5gfe/pGjNOgOs6cyjADZUUKX8Tvu0+nD8jpiX+thbf4JCv3SxR7/jQA1BOxaGF+jzHr3/ZiGkj9QJIfObcG5TkD6uBEFHH7YVjDXeDRagv5WXiVIkw==",
-    "title":  "FW 1.0.7",
-    "notes":  "Dodan opis promjena"
+    "version":  "1.0.8",
+    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.0.8.bin",
+    "sha256":  "414c1077d1fe48832776becbc86772b752ae136df6e31dd7ef3e20ffd4b0e557",
+    "signature":  "IvljYhlT8nxBbylGwI3n0/ztROUdB3xpvoqSCLxD/bfAp/ah1DpZZojXwoyTeNHEYReH7k4XSqz3UimQodKCqgT8MENt+EmfGD3SThRGcvl+JtzJZkV8SSiapmwJZzBwMjpRKs92wrlr0SWbLcD5swTor4DUwBritrlvXNCaXHMEzXI+Gze356SEbnDh2CdUMp1kVP3BUzikH07DeoLB5qLEjWV6V5yN8JgZ0KAWj1N/j7ZUpv+EHyFso2AOUf+ZOb2dxy2d9k04yGv4HHHXXdlAWUgs90OzMlXsTQzipY5+EArsLnOh+ejcck1/SAYxM5F0GZjnnM8Us0Ffz3j5IA==",
+    "title":  "1.0.8",
+    "notes":  "Esp32 samo testira postojanje novog firmwarea"
 }
