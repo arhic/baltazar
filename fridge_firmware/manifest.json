@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.9",
-    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.0.9.bin",
-    "sha256":  "a17d8f2c9bc2ed2a71041bea1cafe01044ce6955d365447a2b18250f59b8d133",
-    "signature":  "gZcbYGcal699wPgfFdsIZwvfcuSYLiULPCptymJ/UWBXbXs2cF68bBRfaAF7cq92lJZedmsGNVVD1+THOVT2fvE8n+ocCGVvd67NNT4dVgAZTZc8mp457fc9CvwEzTTaJh7Uy5xKozrwFEr3cxvJ7K6t0pcOUoCsalTOL7JEEYkGRCbD9tNkXICvxGCA5kaJVJr75aCh0bgJZFT1hhCvcaxJ+4KLV+pWdMFLZq7+Uq3sbAHWiK91mXua2IZ3arXLI+WywGkvpcUW6zaR7DsqgT5N1n1iL0RdkghSuH7yyvVUbVBWt4gkEYS2oXSV/KVO70Jsr/N4SJe4cf/BaXSOUw==",
-    "title":  "",
-    "notes":  "Nova verzija"
+    "version":  "1.1.0",
+    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.1.0.bin",
+    "sha256":  "62ae31602abacdd5da0c5de17b446495a110b40e877eac4259ae2969d0e77ddd",
+    "signature":  "dO+csI16+v68AIm/fj02ESCnnGCsH99pTx/lcQm7yOQA5/DSOnJDS34XwnVu+XWViNR5U1zpA+sbt/0CHOqzE5baDt35YkLw1D55F5RqUrraFnqY0EEHtRNdCOL2RigGe2cQDjd2tDn061z0JTXRd6x7EBfP6ENVNDF2XDOm3g3baIZV9FrlXTTKBcTWdJ4YNpiYCcHryaQWB2G99IKUJjebmNWNFg1whFFGyon3N6ResLgFfLZQsAUQsVmf58iy9VoyknFKpFrcQAhg4zApl9cJQwUDTu95W5oja9PU7UJnPYKNgPQxaKSLkFIU/6oXjSHfBcMmi9Y1VIu13M2I5A==",
+    "title":  "HA added",
+    "notes":  "Added new Home Assistant sensors and control"
 }
