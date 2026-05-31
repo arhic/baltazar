@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.1",
-    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.1.1.bin",
-    "sha256":  "8bb16c22aa810ced39cd174eaba91d96ec2d969b207376fb72aaaf18f9043fea",
-    "signature":  "Mv1WLy0OezhK+CSzK93BjZnG05Qcac3xN4DkWrAYQFCDeKw+xPaA+Ewia8OuNv8p+gMbHfJqFkSwTNvxlLOiGAkFW+VDkyb+NwWT+p6Cbo+NcwAZcVSkMRyo5paYaeBJaEJQ6KVt3ugDZUumpmIaHkfL890d8JlVBpCGAJvqGSOI2wGYKHr8GeirlKgD1L8sEYR2C/znBS09RCyhkERzU0/5n/gH5cYF6TMv+qV+aP5c6rxrw/M6CNNMY+jgOlpQEhiR4rY/zj54R0XbItajXf7P1jGTGaxj1iUUDnH8C0oNtjyT9GNxfz4jCUXKQJn+KrpvTWMvNOji7LiZxecYLQ==",
-    "title":  "Web control.",
-    "notes":  ""
+    "version":  "1.1.2",
+    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.1.2.bin",
+    "sha256":  "e16608931c9b1d305e41f7d4ce76263ce57104012fae1ba05f60bc2145fa0a7d",
+    "signature":  "NMCmkqdUoP6HQVdp+BT4+NduCMK/HH2fhtg0mevZLpoI6/p462/JgbcIFAGL7gL/RTzmFX4mThcIsgd+IQPHYAMYrE3BFZV5QJeYm/Hk2rtk7FDJE0G4um1IXA7XLy/e2RulazpyJDfJni/zPesSAeiMiX3GMTdNIwCNg/TZF15MwxFDGRj7bOvPI8QDta2Se61folIhpGx8SfJLMUESP1K0SMo+d4T129HD1f+z8FYdV9WOKBNh+X/DwdnBl3j+31V3gGBmcK2B/EQ/u/xEHIau42EdPtzllzF6Q1ReVBrNmRLO5LUE9EH0r2EMXvP/Vfq7wYQIMiSke9eUwGXNaw==",
+    "title":  "Web schedule.",
+    "notes":  "Added the ability to schedule dispense over web."
 }
