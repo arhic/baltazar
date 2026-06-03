@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.3",
-    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.1.3.bin",
-    "sha256":  "9fd5fcde44c133e86d9cc07f7c33e936c077f7a4fa36d490968e9f4f8f4c4307",
-    "signature":  "I8GeAi5VRVpHSgSBu0GImT9ykyaVHnpekAzzxdHdubfH1y8Qux8FWZkSQOQ2AvLbF3lWEE81FUyfJHm4wGEiuzCb5kgwVXcJz9qTICOZ8bK9H4o/rjg0OO+BYLAz36Q/TBorkiV6NHGXK0H764r8/a1fnir7b4dRktHH7jM+2ufRR252/xHkVhKwg84jQv1ah/ccs+0sPMXW8jNvUSP5ZW2l5h2bnTVWTMbs9pI/gcPzNFSScN0LZloFDLN2gfYYTJA3A1p9ZNqaGrPQCJqOi3+EnZFcLoiah35qVs+lJB9Mm01J6BvouXxzjVxrohMo3wsZzlaIY/tjGzHTbsJixg==",
-    "title":  "Welcome screen",
+    "version":  "1.1.4",
+    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.1.4.bin",
+    "sha256":  "a23411247333d02bdecf5dbe3b69efcad58e4d2fd68af3788f9a939556a40dc1",
+    "signature":  "MEYnhm+lWV48t2JQLzHLFpBhIEhtsHZQacaJX98lr2nvYch5+69tW6qEz00fIA3paZjsH1lCmMtcFZmASwjq+m5oX7lIayFyC/jkeZvRcxWzzc8Mh8wC683JTefMhHEyjHb6DRrPg6SlajphsSUHIkzrLYKZIAd092cUWAq68zOJMTYn7VK1L1LYHIonBD0nhtuqb3uuNe6EcQ/EoHtEIyCKfisSELbwBaShufvT9ZaQB4H6aiw0Op7q1HJqoOSVLt9VOrOnvVi0giwbpfeqIMxMcQkjiEn4HJFM6OkQusZKNY/Ti8OUIW4y29+67T/fDw8u7M8277Yp9gQ/aMtYfQ==",
+    "title":  "Fixed welcome screen",
     "notes":  ""
 }
