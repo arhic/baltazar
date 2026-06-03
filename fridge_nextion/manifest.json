@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.6",
-    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_nextion/panel-1.0.6.tft",
-    "sha256":  "a44f9dfbe5278981b2662375658306426482f937bb35cdb457a51cb801e1d6b3",
-    "signature":  "E2F/5quMGcR3tgkKhHaIt1E13nW76EYBp7eq7wJvmt91ztEBul7H0zlu2GPGZ3cwLN6k6W+hMewYG38YRoW6T1MjqIcWYs/tkEFjA4/sFx16eLqeNRkBQeeaOWwqfluT1XAQfwgRo+Jpj6rs7ajyi4967W8eDu0WOsCuRyG7rXGzpc9JVIKGVEDM/3LDoBd9j8Y4i0hGZcWYp6+68DrKtdOZn9CLl2yttm7zRMWiCQtZLCYxDGGBKhe1eHnWhGNeCe9FRVIFoT4o+vKe+kZPxScrIYadeLlXjvtr8u0R9hrYe5ZZY0yhidpwaKqommkJxyrcYzujZ1JPacD/hCQTkg==",
-    "title":  "NX update",
+    "version":  "1.0.7",
+    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_nextion/panel-1.0.7.tft",
+    "sha256":  "2b493ac21b5b4b89511f633009e0b9267e4227f9b278929d76894b39c5167bac",
+    "signature":  "lg9SgqF2SH8Mri5qqVx/fqcq72zBk5wAW76nAUQrbb7aKgZARmZeNqgTMX+ZIewK4hNe9DHU2a8vNLdb1Ge7JLvQdjVcU8FQS3pbBcXtuSI0wUda/l+tJISlcf9R92pQwmXtOIXkMCH1dn29cYgZ765X6240DixDyQ/2GA/iVhVKMoDnnREN7ZD9UbSwVhSqaIdSU4QBFxmeKWud6osYX9dIvUsTjE1IPClQUyib96aV2Vhdkc9PsJ5yRv/5sUPiyl3HjoNvDpexJJA5BS2ez6+wWNrUjnuKp0TY/3kS+zjNad3BcbwClzX5uhFdNowb9rC2Zq8GIrqhe/qBLrUhGw==",
+    "title":  "Added timer to welcome screen",
     "notes":  ""
 }
