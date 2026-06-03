@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.5",
-    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_nextion/panel-1.0.5.tft",
-    "sha256":  "4971cd5eea76820af7391bcc48646ee880ae9fadc6125f87f6c03295a8c4d98f",
-    "signature":  "e5L/hffBHO221gnItDvoBRHisyx+XI+9SgXyP/tVRTFnaAGDhdGTkO4O2esHQI+cgV0/mQSyzR+I2FT/kJ7BPgxMBatlSbNHpA5TNNJ4+YO7wPd1tluIermcPxU2lK/seAF4plelVULIZG8kqfoL4VWeDtBCd6S4HnUs3LTKpK/L+YZPRdLUaZ2hWvrzNKXbN59mYz2eflibVHpinA6A0uvKwPQcTthhvJ71jUBuAGW8vLErZue96fUxxwIHY3BTEOPKuGtEdawTmB0Z5SBICaxk+VoO/CRtbuMOJExR55xnvCGm27K6blW39whIvnAEVLMv9BmXfTttv0dorOM+zw==",
-    "title":  "Welcome screen",
+    "version":  "1.0.6",
+    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_nextion/panel-1.0.6.tft",
+    "sha256":  "a44f9dfbe5278981b2662375658306426482f937bb35cdb457a51cb801e1d6b3",
+    "signature":  "E2F/5quMGcR3tgkKhHaIt1E13nW76EYBp7eq7wJvmt91ztEBul7H0zlu2GPGZ3cwLN6k6W+hMewYG38YRoW6T1MjqIcWYs/tkEFjA4/sFx16eLqeNRkBQeeaOWwqfluT1XAQfwgRo+Jpj6rs7ajyi4967W8eDu0WOsCuRyG7rXGzpc9JVIKGVEDM/3LDoBd9j8Y4i0hGZcWYp6+68DrKtdOZn9CLl2yttm7zRMWiCQtZLCYxDGGBKhe1eHnWhGNeCe9FRVIFoT4o+vKe+kZPxScrIYadeLlXjvtr8u0R9hrYe5ZZY0yhidpwaKqommkJxyrcYzujZ1JPacD/hCQTkg==",
+    "title":  "NX update",
     "notes":  ""
 }
