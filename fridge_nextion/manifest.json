@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.4",
-    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_nextion/panel-1.0.4.tft",
-    "sha256":  "07c2dbbec4c8887e995f77fc4b0852886d7b2eedd033df10ad6ff3a73ff57c15",
-    "signature":  "ITAWIWVIa0J3sCMQ1fGCnCAiQtONpnXEin2dUpTfLDD6TaBpbuoj7sNvRO4RxxkbhgxOpOTN4D8vlduqUeJN4c0Z3qVblRcAveqhSo08Up7xZB6nqOitmuQsAgt+liDc34b/w+ADmMVhfVr04+7i34qzx6bmAAmZ2fI/wwiMIEaBYWyfbAppws06rTvTt2hHVmVrcME0EpU8G8nwRj3Mlo95QN1HMnC4swg5F/AqfvjqtIMVRPDhbDtF3h3aZtZYzEHlt0tf0EYb2wk77W0LKf1+LZ8ZGR/2xoByDQcrWHhI37AaqAg0rqf60uY3AcN1u5XwziihAJwl+PRl7MJE9w==",
-    "title":  "Autoupdate",
-    "notes":  "Esp sam testira postojanje updatea."
+    "version":  "1.0.5",
+    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_nextion/panel-1.0.5.tft",
+    "sha256":  "4971cd5eea76820af7391bcc48646ee880ae9fadc6125f87f6c03295a8c4d98f",
+    "signature":  "e5L/hffBHO221gnItDvoBRHisyx+XI+9SgXyP/tVRTFnaAGDhdGTkO4O2esHQI+cgV0/mQSyzR+I2FT/kJ7BPgxMBatlSbNHpA5TNNJ4+YO7wPd1tluIermcPxU2lK/seAF4plelVULIZG8kqfoL4VWeDtBCd6S4HnUs3LTKpK/L+YZPRdLUaZ2hWvrzNKXbN59mYz2eflibVHpinA6A0uvKwPQcTthhvJ71jUBuAGW8vLErZue96fUxxwIHY3BTEOPKuGtEdawTmB0Z5SBICaxk+VoO/CRtbuMOJExR55xnvCGm27K6blW39whIvnAEVLMv9BmXfTttv0dorOM+zw==",
+    "title":  "Welcome screen",
+    "notes":  ""
 }
