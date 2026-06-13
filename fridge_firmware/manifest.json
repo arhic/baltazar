@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.5",
-    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.1.5.bin",
-    "sha256":  "dc88a0249007acef746edeaae2c919b4c8214ad451c0499ead6dd6019a8a6e30",
-    "signature":  "GPZVWe6m3dSQPCHZ1VE1m9hp+Uq3LIRj7gy/WZk0WgLAiE9z59nGTUxCbD26k3lLhwxEaYpJ7Ak1WV5lr+3xzjI4HvPubSes8V533cpIMtVBhMZChF/SsOueuDMLUifp9TUAyL3pfehDA7D+jrLWBdFhte+lGernku9Cn6aUKu3DmY793xDZ0nzQuTzjIT0qvmkpYJdbdCdZPzaVi6EfH1ZqsiAhb1y0qcwEIe70BAqAXrZROpnEbhzveeaLo6lZ9ESkYpGUOHFDCHOLckFb0GHTTuQXB9+MNLssvXA9ch9ceW4GPn3pNKmkbA76feb5udCqHfk78tGH8XCXsABetw==",
-    "title":  "Added bowl detection",
+    "version":  "1.1.6",
+    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.1.6.bin",
+    "sha256":  "8093810f863d4881a3f2df5b870cea8c1cfb982413a6f7f4ceb3c0cf4fe5381a",
+    "signature":  "cbO4QxlgZ0Dy3CbNKx8rNorHSnLBikY21zzYz5dZWKpf8FON6+N7J5dSaIra+eqCEYUOA8iYvXfEO3ROS7POAu6VOGxomp7CWugsCjDHb0cj0RZ96mZjapOpfARsq6pyFKUDnboOeb964QUfY/8MKd6OijVyTRIpCE6GUimibifJpOUjODzHrTPhCBFZz4/WqYgGaqWq1EDhTdqJ9RIj4+mEp1MBm6C7vWrgqjeJrNqaeTQnRK2uXI0vFu7N8r9S9nIyBsMhSllqZvsArmYDoZdxVn2jEkfgGz5gMnFAdwChp0ecTWiK6vpLdZLfL4ia3/ZsbUzvcLDKHVwcdKpT0Q==",
+    "title":  "Bowl",
     "notes":  ""
 }
