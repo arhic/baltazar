@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.4",
-    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.1.4.bin",
-    "sha256":  "a23411247333d02bdecf5dbe3b69efcad58e4d2fd68af3788f9a939556a40dc1",
-    "signature":  "MEYnhm+lWV48t2JQLzHLFpBhIEhtsHZQacaJX98lr2nvYch5+69tW6qEz00fIA3paZjsH1lCmMtcFZmASwjq+m5oX7lIayFyC/jkeZvRcxWzzc8Mh8wC683JTefMhHEyjHb6DRrPg6SlajphsSUHIkzrLYKZIAd092cUWAq68zOJMTYn7VK1L1LYHIonBD0nhtuqb3uuNe6EcQ/EoHtEIyCKfisSELbwBaShufvT9ZaQB4H6aiw0Op7q1HJqoOSVLt9VOrOnvVi0giwbpfeqIMxMcQkjiEn4HJFM6OkQusZKNY/Ti8OUIW4y29+67T/fDw8u7M8277Yp9gQ/aMtYfQ==",
-    "title":  "Fixed welcome screen",
+    "version":  "1.1.5",
+    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.1.5.bin",
+    "sha256":  "dc88a0249007acef746edeaae2c919b4c8214ad451c0499ead6dd6019a8a6e30",
+    "signature":  "GPZVWe6m3dSQPCHZ1VE1m9hp+Uq3LIRj7gy/WZk0WgLAiE9z59nGTUxCbD26k3lLhwxEaYpJ7Ak1WV5lr+3xzjI4HvPubSes8V533cpIMtVBhMZChF/SsOueuDMLUifp9TUAyL3pfehDA7D+jrLWBdFhte+lGernku9Cn6aUKu3DmY793xDZ0nzQuTzjIT0qvmkpYJdbdCdZPzaVi6EfH1ZqsiAhb1y0qcwEIe70BAqAXrZROpnEbhzveeaLo6lZ9ESkYpGUOHFDCHOLckFb0GHTTuQXB9+MNLssvXA9ch9ceW4GPn3pNKmkbA76feb5udCqHfk78tGH8XCXsABetw==",
+    "title":  "Added bowl detection",
     "notes":  ""
 }
