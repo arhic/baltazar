@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.0.8",
-    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_nextion/panel-1.0.8.tft",
-    "sha256":  "7e295009b9641b504bdbfcf3fbf6647a15bb6ebaaeccf7d616326e8f91150cd9",
-    "signature":  "A+hwJjUjB9T7KABVKaJ2L/8BbBZbHX7zJiZkF8yvUtT5TbZF5WINj3qGwCJZ4FTr5m0vFppT3t+IQuB4QfPI122D4Ul/PUDj0RAA/THouZMUH5Q3x1UHictUjF9z6ojBB0d65HOKxowhA2uK1U3Vi/XPCEOBxzYS/deImZ+LSH/QN9WY8sfw44HF+XbTTs8fKi1lrZjo99dnS3u5sRCe2tvHh06fCpOoiqgkkJiX/izlb04PEW5TDYc6xNY2XAwJ57SKato3QK12CKcYczJu/L6mm95NSSSbXIwevmIObaCPREmeDTWmPLgQ0U34zxJEggNTSb68wcWcVnXFz8ibhQ==",
-    "title":  "Glass detection",
+    "version":  "1.0.9",
+    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_nextion/panel-1.0.9.tft",
+    "sha256":  "ae13be3896498a42bde172714333468abfac17d59d1b89736ea1cc22307c8a5a",
+    "signature":  "ZEVZFl8q0/f1v6w/J+pu5wmVZbsvmkJ3lEaTTGzuNDdG4ombsmukeHg9zNRmxzrQ7vn6eBHXqes4X4wpxEhqi9nOa15dTc8QAKEDDfLfijykHbNTi9P9Uu70kCDnBEnG5XZpKf5qNVi3lyaiVC6cnXJmYPrkxKy1Isdt8A+X4KtC5ie58JH930ZHM1+XVVfieO64rowbWRyVVZthH2eepAuwJ9AgmxpY8Jb3pcnWe9uLLTF4Wtsgg2pU5lgEzsKGNZA+ug6FL1/7ow49Zuw1/nTZqbB/vqlosxsVRbKFr8wsosSj8LsYveFmwwwSxLq+QM7JPdQt0Y+Tpt/oJKoVIw==",
+    "title":  "Added error messeage",
     "notes":  ""
 }
