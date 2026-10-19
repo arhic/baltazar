@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.7",
-    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.1.7.bin",
-    "sha256":  "86d33002d6c3acc0b5286b7cb18b698403146ba2f31245026ca2ba48c65d45ea",
-    "signature":  "HCCBw6p8g2B1OjAsHvaVrIZY8e7RapzyiAEVT1STx70kZ9sZk9TBCON5Lfs/pOyBFAKhnc5xHcDhKKHPDxk4Dcoo+hxM0VygDfQUO+efITyvufA8/s2VtLz+QUufMMcm8ZpqnPs8W3+ZIBn53ZWM+VdcjpSEWJIQoUyaOXc3a9jcp8vXXiVoblUzm5TSW+l4mojqwKybyJvr4J32qNyb72X8wFlPcaQU4MW+uyH5o0Dpymrvg6fxsCdOnTNORRtGZLtbUfM10mT0rwASykdn+vFZo4Ze/KChUcU/UWJDFP3JezGC91KlviemJzBmcybCNX3XKIWGeAfeJqOiUsq7kA==",
-    "title":  "Block Valve",
+    "version":  "1.1.8",
+    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.1.8.bin",
+    "sha256":  "14f6f26ecf19bd7a8648ec10845b40c8440c6c58f0e755a2edd0ab4a71a30cb5",
+    "signature":  "Rbh5mGUi725THyMKV9irnW+fPE36jVW0p1b+l4q9NzqsZN5mnCKcA1XRLtSihpEHryhPz4+P6b6moMNesjBCJsL4PRQNF1g0hXM9u6C3cUGbHxdtPJDrnY+Yv40dLFZH6iNlte8nIJFNGLRrey5ZcA/EVCmrwJTAXEO4n6xgqZ6Oln0rmhn5dZw05/D9l63VP/gsHXrfVsdc+K9F++P0VfTxxFETJz7Ph67kn/HbJCOuPLeU/0p0F7iz7CHrjZmfsqdD4igkM5zI8W5Yd8xhYkZGXmWgnTOQCmM4loaEsda15U+bPHq+7PS9WOizBmppyuBuekkSlqR3KGPApmdSxQ==",
+    "title":  "Microswitch added",
     "notes":  ""
 }
