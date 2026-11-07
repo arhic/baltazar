@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "1.1.8",
-    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.1.8.bin",
-    "sha256":  "14f6f26ecf19bd7a8648ec10845b40c8440c6c58f0e755a2edd0ab4a71a30cb5",
-    "signature":  "Rbh5mGUi725THyMKV9irnW+fPE36jVW0p1b+l4q9NzqsZN5mnCKcA1XRLtSihpEHryhPz4+P6b6moMNesjBCJsL4PRQNF1g0hXM9u6C3cUGbHxdtPJDrnY+Yv40dLFZH6iNlte8nIJFNGLRrey5ZcA/EVCmrwJTAXEO4n6xgqZ6Oln0rmhn5dZw05/D9l63VP/gsHXrfVsdc+K9F++P0VfTxxFETJz7Ph67kn/HbJCOuPLeU/0p0F7iz7CHrjZmfsqdD4igkM5zI8W5Yd8xhYkZGXmWgnTOQCmM4loaEsda15U+bPHq+7PS9WOizBmppyuBuekkSlqR3KGPApmdSxQ==",
-    "title":  "Microswitch added",
+    "version":  "1.1.9",
+    "url":  "https://raw.githubusercontent.com/arhic/baltazar/main/fridge_firmware/firmware-1.1.9.bin",
+    "sha256":  "efd445030d21ea92ce9758e2d238349eb04f78cd71294673318d86b91cedad19",
+    "signature":  "WO9sfQXURwn0zg6n7CF4TUK0/M6GW3+KeCVJJJsRFIzQXqUwsZdajPiiJeIZdEGvsyDGK4Kn11SsmiOwT4HOY/I4CHmDV+3xnDqU76p7x9Bnl97pJYADw2gQd7mKsX9QxDiOhmng1PTYoFC2pXjcaPv2GyQJNd29qYykzs1aBn9kYHgy1qCed7h+fYiRAFpF+wF7EQrUMzVU+f2kPYEjFxwwIH3jYP/IArhi87wgRPB0UgD1F6atx1qadAi9p+bfam08lVTPD9XjjqvWNdAwyVogYWseiRNCqoBEPkJM00pvM/J3SqtTBqXn6d7oeic7MK1HCb+3z2dIBij1cm1xTw==",
+    "title":  "Automatic purge",
     "notes":  ""
 }
